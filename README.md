@@ -92,3 +92,13 @@ Mnist, Hand-written numbers image: [Mnist numbers]( https://github.com/n-ebrahim
 - MLP on Titanic Dataset, sequential model - tensorflow and keras
 
 - 12-2, 12-3, 12-4: Comparison accuracy of MLP with KNN, Adaline and perceptron on Titanic Dataset
+
+- **Result**: 
+
+MLP accuracy = 96%
+
+Knn accuracy = 65%
+
+Adaline accuracy = 86%
+
+perceptron accuracy = 34%
