@@ -85,4 +85,10 @@ Mnist, Hand-written numbers image: [Mnist numbers]( https://github.com/n-ebrahim
 
 - Perceptron-Regression on weatherHistory dataset
 
+#
 
+## 12-1 MLP on Titanic Dataset
+
+- MLP on Titanic Dataset, sequential model - tensorflow and keras
+
+- 12-2, 12-3, 12-4: Comparison accuracy of MLP with KNN, Adaline and perceptron on Titanic Dataset
