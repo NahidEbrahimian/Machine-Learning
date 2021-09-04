@@ -102,3 +102,16 @@ Knn accuracy = 65%
 Adaline accuracy = 86%
 
 perceptron accuracy = 34%
+
+
+- Dataset link: [titanic]( https://www.kaggle.com/c/titanic/data)
+
+#
+
+## 13-MLP on House Prices Dataset
+
+- Result on wandb: [MLP-HousePrices]( https://wandb.ai/nahid-ebrahimian/MLP-House%20Prices?workspace=user-nahid-ebrahimian)
+
+- Dataset link: [house-prices]( https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+
+
