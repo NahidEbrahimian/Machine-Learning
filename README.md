@@ -114,4 +114,14 @@ perceptron accuracy = 34%
 
 - Dataset link: [house-prices]( https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
 
+#
 
+## 14- WeatherPrediction_Regression
+
+- Train Neural Network on weather-dataset using tensorflow and keras
+
+#### Dataset:
+
+Dataset link: [weather-dataset]( https://drive.google.com/drive/folders/10OdTbgLI8O-ZezfHopbpbqgJ_lI9M5D-?usp=sharing)
+
+- Loss on test data: 3.0455
