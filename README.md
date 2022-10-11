@@ -125,3 +125,9 @@ perceptron accuracy = 34%
 Dataset link: [weather-dataset]( https://drive.google.com/drive/folders/10OdTbgLI8O-ZezfHopbpbqgJ_lI9M5D-?usp=sharing)
 
 - Loss on test data: 3.0455
+
+## 15- learning-rate-schedules
+
+Learning Rate schedules in Practice
+
+![Screenshot 2022-10-11 192707](https://user-images.githubusercontent.com/82975802/195146320-0585f326-5203-487a-a704-6fcc13ca3b59.png)
